@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m4gn3
+- 👋 Hi, I’m @fxv.mag
 - 👀 I’m interested in cats
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on a server
