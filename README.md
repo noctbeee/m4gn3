@@ -2,8 +2,8 @@
 - 👀 I’m interested in cats
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on a server
-- 📫 How to reach me (m4gn3.) DM on discord
-- 😄 Pronouns: He/Him
+- 📫 How to reach me (fxv.mag) DM on discord
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: MEOW
 
 <!---
